@@ -19,6 +19,8 @@ redirect_from:
 
 I am a Senior Scientist at the Advanced Membrane Materials Institute, where I lead an R&D project on polymer films for display and optical applications. I develop the research plan, coordinate the team’s experiments, and set and track project milestones. Previously, I was a postdoctoral researcher at the University of Michigan, Ann Arbor, where I worked as part of the NSF COMPASS research center. I earned my Ph.D. in Chemical Engineering from Texas A&M University and my master’s degree in Polymer Science from Zhejiang University.
 
+My research focuses on interfacial science and the engineering of functional polymer materials for membrane separations, controlled release, and fire safety. My interests also include AI for Materials Engineering, particularly the integration of experimental design and machine learning to predict material performance and guide process development. I have authored or co-authored 23 papers, including 11 as first or corresponding author. I have reviewed more than 100 manuscripts for 20 journals and have served as a Review Editor for Frontiers in Chemical Engineering and a Guest Editor for Polymers.
+
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
