@@ -46,13 +46,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 💻 Experiences
+- *2025 - Current*, Senior Scientist, USTC Advanced Membrane Materials Institute, Hefei.
+- *2023 - 2024*, Postdoctoral Researcher Fellow, University of Michigan, Ann Arbor, MI.
+
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018 - 2022*, PhD in Chemical Engineering, Texas A&M University, College Station, TX. 
+- *2013 - 2016*, Master in Polymer Science, Zhejiang University, Hangzhou.
+- *2009 - 2013*, Bachelor in Polymer Materials, Anhui University, Hefei. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
