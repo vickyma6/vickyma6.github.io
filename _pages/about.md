@@ -37,61 +37,105 @@ _\* Corresponding author, \# Equally contribution
 
 
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
-**Rong Ma***, Yuncheng Yu*
+**R. Ma***#, Y. Yu*#
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
-**Rong Ma***, Yuncheng Yu
+**R. Ma***, Y. Yu
 
 [Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method](https://pubs.acs.org/doi/full/10.1021/cbe.5c00017), <em>Chem & Bio Engineering, 2, 2025, 312-321.</em>
 ***Editors’ choice, Featured as the Front Cover***<br>
-**Rong Ma**, Jipheng Sun, Sungwan Park, Fiona Nikolla, Albert Liu
+**R. Ma**#, J. Sun#, S. Park, F. Nikolla, A.T. Liu
 
 [Ionic liquid capsules as flame-retardant additives for emulsion paint systems](https://www.mdpi.com/2073-4360/17/5/626), <em>Polymers, 17, 2025, 626.</em><br>
-**Rong Ma**, Bingqian Wu, Qingsheng Wang
+**R. Ma**, B. Wu, Q. Wang
 
 [Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
-**Rong Ma**, Ruiqing Shen, Yufeng Quan, Qingsheng Wang
+**R. Ma**, R. Shen, Y. Quan, Q. Wang
 
 [Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em>***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
-**Rong Ma**, Minxiang Zeng, Dali Huang, Qingsheng Wang
+**R. Ma**, M. Zeng, D. Huang, Q. Wang
 
 [Amphiphilicity-adaptable graphene quantum dots to stabilize pH-responsive Pickering emulsions at a very low concentration](https://www.sciencedirect.com/science/article/abs/pii/S0021979721007839), <em>J. Colloid Interface Sci. 601, 2021, 106-113.</em><br>
-**Rong Ma**, Minxiang Zeng, Dali Huang, Jenny Wang, Zhengdong Cheng, Qingsheng Wang
+**R. Ma**, M. Zeng, D. Huang, J. Wang, Z. Cheng, Q. Wang
 
 [Tunable flammability studies of graphene quantum dots-based poly- styrene nanocomposites using microscale combustion calorimetry]( https://doi.org/10.1007/s10973-022-11277-9), <em>J. Therm. Anal. Calorim. 147, 2022, 10383.</em><br>
-**Rong Ma**, Ruiqing Shen, Yufeng Quan, Qingsheng Wang
+**R. Ma**, R. Shen, Y. Quan, Q. Wang,
 
 [Fabrication of antifouling reverse osmosis membranes by incorporating zwitterionic colloids nanoparticles for brackish water desalination](https://www.sciencedirect.com/science/article/abs/pii/S0011916416319877), <em>Desalination 416, 2017, 33.</em>
-
-**Rong Ma**, Yanli Ji, Yaoshen Guo, Yifang Mi, Quanfu An, Congjie Gao
+**R. Ma**, Y. Ji, Y. Guo, Y. Mi, Q. An, C. Gao
 
 [High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomers via interfacial polymerization](https://www.sciencedirect.com/science/article/abs/pii/S0011916415301259), <em>Desalination 381, 2016, 100.</em><br>
-**Rong Ma**, Yanli Ji, Xiaodan Weng, Quanfu An, Congjie Gao
+**R. Ma**, Y. Ji, X. Weng, Q. An, C. Gao
 
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 15px;">
   • <a href="https://doi.org/10.3390/polym16111481">Recent Developments in Nanocomposite Membranes Based on Carbon Dots</a>, <em>Polymers, 16, 2024, 1481.</em>
-  <div style="margin-top: 1em; text-indent: 0;">Shuheng He, Yiding Meng, Jiali Liu, Dali Huang, Yifang Mi*, <strong>Rong Ma</strong>*</div>
+  <div style="margin-top: 1em; text-indent: 0;">S. He, Y. Meng, J. Liu, D. Huang, Y. Mi*, <strong>R. Ma</strong>*</div>
 </div>
 <br>
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
   • <a href="https://doi.org/10.3390/polym16111481">Salt-responsive polyamide thin-film nanocomposite membrane based on zwitterionic polymeric nanoparticles for high-efficient dye desalination</a>, <em>J. Membr. Sci. 709, 2024, 123094.</em>
-  <div style="margin-top: 1em; text-indent: 0;">Yifang Mi, Wen Xia, Bingxin Gu, <strong>Rong Ma</strong>*, Yanli Ji</div>
+  <div style="margin-top: 1em; text-indent: 0;">Y. Mi, W. Xia, B. Gu, <strong>R. Ma</strong>, Y. Ji</div>
 </div>
-
-
-
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383586623007785">Simultaneous regulation of pore size and surface charge of nanofiltration membrane using carbon quantum dots for improved selective separation</a>, <em>Sep. Purif. Technol. 317, 2023, 123870.</em>
+  <div style="margin-top: 1em; text-indent: 0;">Y. Mi, Y. Huang, S. He, <strong>R. Ma</strong>, Y. Meng, Z. Cao</div>
 </div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.1021/acssuschemeng.2c01720">Sustainable and efficient manufacturing of metal-organic framework-based polymer nanocomposites by reactive extrusion</a>, <em>ACS Sustainable Chem. Eng.10, 2022, 7216.</em>
+  <div style="margin-top: 1em; text-indent: 0;">Y. Quan, R. Shen, <strong>R. Ma</strong>, Z. Zhang, Q. Wang</div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058422002929">Thermal stability and flammability of cotton fabric with TiO2 coatings based on biomineralization</a>, <em>Mater. Chem. Phys. 282, 2022, 125986.</em>
+  <div style="margin-top: 1em; text-indent: 0;">15.	R. Shen, T. Fan, Y. Quan, <strong>R. Ma</strong>, Z. Zhang, Y. Li, Q. Wang</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.3390/polym14061213">Thermal stability and flammability studies of MXene-organic hybrid polystyrene nanocomposites</a>, <em>Polymers 2022, 14, 1213.</em>
+  <div style="margin-top: 1em; text-indent: 0;">Z. Zhang, H. Cao, Y. Quan, <strong>R. Ma</strong>, E. Pentzer, M. Green, Q. Wang</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.1021/acs.iecr.2c00715">Metal-organic framework as an efficient synergist for intumescent flame retardants against highly flammable polypropylene</a>, <em>Ind. Eng. Chem. Res. 61, 2022, 7292-7302.</em> <strong><em>Most Popular IECR Article in 2022</em></strong>
+  <div style="margin-top: 1em; text-indent: 0;">R. Shen, Y. Quan, Z. Zhang, <strong>R. Ma</strong>, Q. Wang</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.3390/polym13234113">Flammability and thermal kinetic analysis of UiO-66-based PMMA polymer composites</a>, <em>Polymers 13, 2022, 4113.</em>
+  <div style="margin-top: 1em; text-indent: 0;">R. Shen, T. Yan, <strong>R. Ma</strong>, E. Joseph, Y. Quan, H. Zhou, Q. Wang</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.1039/d1ta02117f">Templating synthesis of natural cotton-based hierarchically structured carbon hollow microfibers for high-performance solar vapor generation</a>, <em>J. Mater. Chem. A 27, 2021, 15346-15354.</em>
+  <div style="margin-top: 1em; text-indent: 0;">S. Lei, D. Huang, S. Liu, M. Chen, <strong>Rong Ma</strong>, M. Zeng, D. Li, W. Ma, L. Wang, Z. Cheng</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.1016/j.jlp.2020.104213">Microwave-assisted preparation of two-dimensional amphiphilic nanoplate herding surfactants for offshore oil spill treatment</a>, <em>J. Loss. Prev. Process Ind. 66, 2020, 104213.</em>
+  <div style="margin-top: 1em; text-indent: 0;">D. Huang, H. Xu, B. Jacob, <strong>R. Ma</strong>, S. Yuan, L. Zhang, M. Mannan, Z. Cheng</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://doi.org/10.1016/j.jlp.2019.103948">Biocompatible Herder for rapid oil spill treatment over a wide temperature range</a>, <em>J. Loss. Prev. Process Ind. 62, 2019, 103948.</em>
+  <div style="margin-top: 1em; text-indent: 0;">D. Huang, R. Sebastian, L. Zhang, H. Xu, S. Lei, M. Chen, A. Shinde, <strong>R. Ma</strong>, M. Mannan, Z. Cheng</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433217330817">Strong efficiency improvement in dye-sensitized solar cells by novel multi- dimensional TiO2 photoelectrode</a>, <em> Appl. Surf. Sci. 434, 2018, 11-15.</em>
+  <div style="margin-top: 1em; text-indent: 0;">F. Zhao, <strong>R. Ma</strong>, Y. Jiang</div>
+</div>
+<br>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+  • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376738816301272">Superhydrophilc and antibacterial zwitterionic polyamide nanofiltration membranes for antibiotics separation</a>, <em> J. Membr. Sci. 510, 2016, 122-130.</em>
+  <div style="margin-top: 1em; text-indent: 0;">X. Weng, Y. Ji, <strong>R. Ma</strong>, F. Zhao, Q. An, C. Gao</div>
+</div>
+<br>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -106,7 +150,7 @@ _\* Corresponding author, \# Equally contribution
 - *2013 - 2016*, Master in Polymer Science, Zhejiang University, Hangzhou.
 - *2009 - 2013*, Bachelor in Polymer Materials, Anhui University, Hefei. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+# 💬 Conferences
+- **R. Ma**, J. Sun, S. Park, A.T. Liu, Programmable cargo release by jet-printed microgel particles via an in situ ionic exchange. GRS-Complex Active and Adaptive Material System, Ventura, CA, Jan. 2025 (Poster) 
+- **R. Ma**, S. Park, A.T. Liu, Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method. AIChE Annual Meeting, San Diego, CA, Oct. 2024 (Oral)
+- 
