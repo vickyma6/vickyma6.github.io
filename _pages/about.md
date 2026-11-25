@@ -68,7 +68,7 @@ My research focuses on interfacial science and the engineering of functional pol
 [Ionic liquid capsules as flame-retardant additives for emulsion paint systems](https://www.mdpi.com/2073-4360/17/5/626), <em>Polymers, 17, 2025, 626.</em><br>
 **R. Ma**, B. Wu, Q. Wang
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="position: absolute; top: -15px; left: 10px; z-index: 10; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%" style="max-height: 220px; width: auto; max-width: 100%; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
