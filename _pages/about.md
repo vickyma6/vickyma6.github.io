@@ -43,9 +43,9 @@ My research focuses on interfacial science and the engineering of functional pol
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
 **R. Ma***#, Y. Yu*#
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +80,6 @@ My research focuses on interfacial science and the engineering of functional pol
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Colloid Interface Sci.</div><img src='images/GQDs-C.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Amphiphilicity-adaptable graphene quantum dots to stabilize pH-responsive Pickering emulsions at a very low concentration](https://www.sciencedirect.com/science/article/abs/pii/S0021979721007839), <em>J. Colloid Interface Sci. 601, 2021, 106-113.</em><br>
 **R. Ma**, M. Zeng, D. Huang, J. Wang, Z. Cheng, Q. Wang
