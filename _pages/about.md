@@ -52,14 +52,18 @@ My research focuses on interfacial science and the engineering of functional pol
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
 **R. Ma***, Y. Yu
+</div>
+</div>  
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chem & Bio Engineering</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
   
 [Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method](https://pubs.acs.org/doi/full/10.1021/cbe.5c00017), <em>Chem & Bio Engineering, 2, 2025, 312-321.</em>
 ***Editors’ choice, Featured as the Front Cover***<br>
 **R. Ma**#, J. Sun#, S. Park, F. Nikolla, A.T. Liu
+</div>
+</div>
 
 [Ionic liquid capsules as flame-retardant additives for emulsion paint systems](https://www.mdpi.com/2073-4360/17/5/626), <em>Polymers, 17, 2025, 626.</em><br>
 **R. Ma**, B. Wu, Q. Wang
@@ -70,6 +74,9 @@ My research focuses on interfacial science and the engineering of functional pol
 
 [Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
 **R. Ma**, R. Shen, Y. Quan, Q. Wang
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Mater. Interface</div><img src='images/ZGQDs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
