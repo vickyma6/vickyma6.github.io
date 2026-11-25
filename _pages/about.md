@@ -47,13 +47,13 @@ My research focuses on interfacial science and the engineering of functional pol
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
 **R. Ma***#, Y. Yu*#
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
 **R. Ma***, Y. Yu
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chem & Bio Engineering</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method](https://pubs.acs.org/doi/full/10.1021/cbe.5c00017), <em>Chem & Bio Engineering, 2, 2025, 312-321.</em>
 ***Editors’ choice, Featured as the Front Cover***<br>
 **R. Ma**#, J. Sun#, S. Park, F. Nikolla, A.T. Liu
