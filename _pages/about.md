@@ -17,20 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Senior Scientist at the Advanced Membrane Materials Institute, where I lead an R&D project on polymer films for display and optical applications. I develop the research plan, coordinate the team’s experiments, and set and track project milestones. Previously, I was a postdoctoral researcher at the University of Michigan, Ann Arbor, where I worked as part of the NSF COMPASS research center. I earned my Ph.D. in Chemical Engineering from Texas A&M University and my master’s degree in Polymer Science from Zhejiang University.
+I am a Senior Scientist at the USTC-Advanced Membrane Materials Institute, where I lead an R&D project on polymer films for display and optical applications. I develop the research plan, coordinate the team’s experiments, and set and track project milestones. Previously, I was a postdoctoral researcher at the University of Michigan, Ann Arbor, where I worked as part of the NSF COMPASS research center. I earned my Ph.D. in Chemical Engineering from Texas A&M University and my master’s degree in Polymer Science from Zhejiang University.
 
-My research focuses on interfacial science and the engineering of functional polymer materials for membrane separations, controlled release, and fire safety. My interests also include AI for Materials Engineering, particularly the integration of experimental design and machine learning to predict material performance and guide process development. I have authored or co-authored 23 papers, including 11 as first or corresponding author. I have reviewed more than 100 manuscripts for 20 journals and have served as a Review Editor for Frontiers in Chemical Engineering and a Guest Editor for Polymers.
+My research focuses on interfacial science and the engineering of functional polymer materials for membrane separations, controlled release, and fire safety. My interests also include AI for Materials Engineering, particularly the integration of experimental design and machine learning to predict material performance and guide process development. I have authored or co-authored 23 papers, including 11 as first or corresponding author. According to Google Scholar, my publications have received over 920 citations with an h-index of 17 (as of 11/2026). I am also committed to serving the broader research community through peer review and editorial contributions.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).<a href="https://scholar.google.com/citations?user=7CCP7XAAAAAJ" target="_blank">Google Scholar Citations: 120</a>
+# 💻 Experiences
+- *2025 - Current*, Senior Scientist, USTC-Advanced Membrane Materials Institute, Hefei, Anhui.
+- *2023 - 2024*, Postdoctoral Researcher Fellow, University of Michigan, Ann Arbor, MI.
 
+# 📖 Educations
+- *2018 - 2022*, PhD in Chemical Engineering, Texas A&M University, College Station, TX. 
+- *2013 - 2016*, Master in Polymer Science, Zhejiang University, Hangzhou.
+- *2009 - 2013*, Bachelor in Polymer Materials, Anhui University, Hefei. 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎼 Professional Serveices
+- Reviewed >100 manuscripts for total of 20 professional journals, including <em>ACS Sustainable Chemistry & Engineering, ACS Omega, Composites Part B: Engineering, Colloids Surf. A Physicochem. Eng. Aspects, Desalination, etc.</em>
+- Guest Editor for Special Issues of <em>Polymers</em>
+- Serve as a judge for ChEGs symposium, University of Michigan, 2024
+- Serve as a judge for undergraduate poster session competition, AlChE 2024
 
 # 📝 Publications 
 
-_\* Corresponding author, \# Equally contribution
+\* Corresponding author, \# Equally contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -137,20 +145,37 @@ _\* Corresponding author, \# Equally contribution
 </div>
 <br>
 
+# 💬 Conference Presentations
+- **R. Ma**, J. Sun, S. Park, A.T. Liu, "Programmable cargo release by jet-printed microgel particles via an in situ ionic exchange". <em>GRS-Complex Active and Adaptive Material System</em>, Ventura, CA, Jan. 2025 (Poster) 
+- **R. Ma**, S. Park, A.T. Liu, "Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method". <em>AIChE Annual Meeting</em>, San Diego, CA, Oct. 2024 (Oral)
+- **R. Ma**, “Engineering particle systems for advanced applications”. <em>AIChE Annual Meeting</em>, San Diego, CA, Oct. 2024 (Poster)
+- **R. Ma**, S. Park, A.T. Liu, “Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method”. <em>ACS Annual Meeting</em>, Denver, CO, August. 2024 (Oral)
+- **R. Ma**, S. Park, A.T. Liu, “Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method”. <em>NSF COMPASS Poster Session</em>, Ann Arbor, MI, May. 2024 (Poster)
+- **R. Ma**, S. Park, A.T. Liu, “Programmable cargo release from microgel particles via an in situ ionic exchange method”. <em>Michigan Materials Research Institute Annual Summit</em>, University of Michigan, May. 2024 (Poster)
+- **R. Ma**, “Engineering Surface-active Nanoparticles for Advanced Applications”. <em>AIChE Annual Meeting</em>, Orlando, FL, Nov. 2023 (Poster)
+- **R. Ma**, R. Shen, D. Huang, Q. Wang, “Fabrication of polystyrene/graphene quantum dots nanocomposites for enhanced flame-retardant properties via Pickering emulsion polymerization”. <em>AIChE Annual Meeting</em>, Boston, MA, Nov. 2021 (Oral)
+- **R. Ma**, M. Zeng, D. Huang, J. Wang, Z. Cheng, “One step fabrication of amphiphilic graphene quantum dots as pH-responsive Pickering emulsifier”. <em>AIChE Annual Meeting</em>, Virtual, Nov. 2020 (Oral)
+- **R. Ma**, M. Zeng, D. Huang, Z. Cheng, “Synthesis of graphene quantum dots with amphiphilic Janus structure as Pickering Emulsifier”, <em>The 8th Texas Soft Matter Conference</em>, Texas Tech, Aug. 2019 (Poster)
+- **R. Ma**, Y. Ji, Q. An, C. Gao, “High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomer”, <em>The 9th Aseanian Membrane Society Conference</em>, Taipei, Jul. 2015 (Poster)
+
+# 🎖 Patents
+- Q. An, Y. Ji, **R. Ma**, C. Gao, “The fabrication method of polyamide reverse osmosis membrane with zwitterionic polyelectrolyte complex containing CMCNa”, Chinese patent, CN104028118B
+- A.T. Liu, **R. Ma**, J. Sun, S. Park, “Methods for generating alginate hydrogels and hydrogel systems”, U.S. patent, submitted
+- **R. Ma**, Q. Zhang, J. Liu, J. Wang, D. Wang, “Methods for PVA modification and films manufacturing process”, Chinese patent, submitted
+- **R. Ma**, Q. Zhang, J. Liu, J. Wang, Y. Wang, D. Wang, “A new type of PVA films for display applications”, Chinese patent, submitted
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- UMPDA Postdoc Conference Award, University of Michigan, 2024. 
+- Graduate Student Research and Presentation Travel Award, Texas A&M University, 2020
+- Graduate student scholoarship, Zhejiang University, 2014 (Top 2%) 
 
-# 💻 Experiences
-- *2025 - Current*, Senior Scientist, USTC Advanced Membrane Materials Institute, Hefei.
-- *2023 - 2024*, Postdoctoral Researcher Fellow, University of Michigan, Ann Arbor, MI.
+# 📚 Grants
+- “Active-weaving: Self-propelled Nanoparticle-Driven Formation and Graph-Theoretic Characterization of Complex Polymer Networks”, *NSF COMPASS Junior Scientist Research Grants*, PIs: S. Haque, R. Ma, S. Liu (Funded, $10K, 12/2024-12/2025)
+- "Optical polymer film for high-performance polarization applications", *Internal Research Grants*, PI: R. Ma (Funded, CNY300K,10/2026-10/2028) 
 
-# 📖 Educations
-- *2018 - 2022*, PhD in Chemical Engineering, Texas A&M University, College Station, TX. 
-- *2013 - 2016*, Master in Polymer Science, Zhejiang University, Hangzhou.
-- *2009 - 2013*, Bachelor in Polymer Materials, Anhui University, Hefei. 
+# 🧑‍🎨 Teaching & Mentoring Experience
+- Chemical Engineering Mass Transfer Operations (Fall 2018, Spring 2019, Fall 2020)
+- Chemical Engineering Combined-Kinetics & Reactor Design (Fall 2021)
+- Mentored 3 undergraduates, and 2 Ph.D. students from the University of Michigan (2023-2025)
+- Mentored 4 undergraduates, 1 master, and 1 Ph.D. students from Texas A&M University (2019-2022)
 
-# 💬 Conferences
-- **R. Ma**, J. Sun, S. Park, A.T. Liu, Programmable cargo release by jet-printed microgel particles via an in situ ionic exchange. GRS-Complex Active and Adaptive Material System, Ventura, CA, Jan. 2025 (Poster) 
-- **R. Ma**, S. Park, A.T. Liu, Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method. AIChE Annual Meeting, San Diego, CA, Oct. 2024 (Oral)
-- 
