@@ -47,13 +47,16 @@ My research focuses on interfacial science and the engineering of functional pol
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
 **R. Ma***#, Y. Yu*#
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
 **R. Ma***, Y. Yu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chem & Bio Engineering</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chem & Bio Engineering</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+  
 [Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method](https://pubs.acs.org/doi/full/10.1021/cbe.5c00017), <em>Chem & Bio Engineering, 2, 2025, 312-321.</em>
 ***Editors’ choice, Featured as the Front Cover***<br>
 **R. Ma**#, J. Sun#, S. Park, F. Nikolla, A.T. Liu
@@ -61,11 +64,23 @@ My research focuses on interfacial science and the engineering of functional pol
 [Ionic liquid capsules as flame-retardant additives for emulsion paint systems](https://www.mdpi.com/2073-4360/17/5/626), <em>Polymers, 17, 2025, 626.</em><br>
 **R. Ma**, B. Wu, Q. Wang
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 [Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
 **R. Ma**, R. Shen, Y. Quan, Q. Wang
 
-[Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em>***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Mater. Interface</div><img src='images/ZGQDs.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> ***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
 **R. Ma**, M. Zeng, D. Huang, Q. Wang
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Colloid Interface Sci.</div><img src='images/GQDs-C.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 [Amphiphilicity-adaptable graphene quantum dots to stabilize pH-responsive Pickering emulsions at a very low concentration](https://www.sciencedirect.com/science/article/abs/pii/S0021979721007839), <em>J. Colloid Interface Sci. 601, 2021, 106-113.</em><br>
 **R. Ma**, M. Zeng, D. Huang, J. Wang, Z. Cheng, Q. Wang
@@ -73,8 +88,16 @@ My research focuses on interfacial science and the engineering of functional pol
 [Tunable flammability studies of graphene quantum dots-based poly- styrene nanocomposites using microscale combustion calorimetry]( https://doi.org/10.1007/s10973-022-11277-9), <em>J. Therm. Anal. Calorim. 147, 2022, 10383.</em><br>
 **R. Ma**, R. Shen, Y. Quan, Q. Wang,
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/ZCPs.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 [Fabrication of antifouling reverse osmosis membranes by incorporating zwitterionic colloids nanoparticles for brackish water desalination](https://www.sciencedirect.com/science/article/abs/pii/S0011916416319877), <em>Desalination 416, 2017, 33.</em>
 **R. Ma**, Y. Ji, Y. Guo, Y. Mi, Q. An, C. Gao
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/TFCMZ.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 [High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomers via interfacial polymerization](https://www.sciencedirect.com/science/article/abs/pii/S0011916415301259), <em>Desalination 381, 2016, 100.</em><br>
 **R. Ma**, Y. Ji, X. Weng, Q. An, C. Gao
