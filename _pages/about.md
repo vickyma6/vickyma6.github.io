@@ -200,7 +200,7 @@ My research focuses on interfacial science and the engineering of functional pol
 <br>
 
 
-# 💬 Conference Presentations
+# 💬 Conference Presentations<br>
 
 - **R. Ma**, J. Sun, S. Park, A.T. Liu, "Programmable cargo release by jet-printed microgel particles via an in situ ionic exchange". <em>GRS-Complex Active and Adaptive Material System</em>, Ventura, CA, Jan. 2025 (Poster) 
 - **R. Ma**, S. Park, A.T. Liu, "Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method". <em>AIChE Annual Meeting</em>, San Diego, CA, Oct. 2024 (Oral)
@@ -213,29 +213,33 @@ My research focuses on interfacial science and the engineering of functional pol
 - **R. Ma**, M. Zeng, D. Huang, J. Wang, Z. Cheng, “One step fabrication of amphiphilic graphene quantum dots as pH-responsive Pickering emulsifier”. <em>AIChE Annual Meeting</em>, Virtual, Nov. 2020 (Oral)
 - **R. Ma**, M. Zeng, D. Huang, Z. Cheng, “Synthesis of graphene quantum dots with amphiphilic Janus structure as Pickering Emulsifier”, <em>The 8th Texas Soft Matter Conference</em>, Texas Tech, Aug. 2019 (Poster)
 - **R. Ma**, Y. Ji, Q. An, C. Gao, “High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomer”, <em>The 9th Aseanian Membrane Society Conference</em>, Taipei, Jul. 2015 (Poster)
+<br>
 
-# 🎖 Patents
+# 🎖 Patents<br>
 
 - Q. An, Y. Ji, **R. Ma**, C. Gao, “The fabrication method of polyamide reverse osmosis membrane with zwitterionic polyelectrolyte complex containing CMCNa”, Chinese patent, CN104028118B
 - A.T. Liu, **R. Ma**, J. Sun, S. Park, “Methods for generating alginate hydrogels and hydrogel systems”, U.S. patent, submitted
 - **R. Ma**, Q. Zhang, J. Liu, J. Wang, D. Wang, “Methods for PVA modification and films manufacturing process”, Chinese patent, submitted
 - **R. Ma**, Q. Zhang, J. Liu, J. Wang, Y. Wang, D. Wang, “A new type of PVA films for display applications”, Chinese patent, submitted
+<br>
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards<br>
 
 - UMPDA Postdoc Conference Award, University of Michigan, 2024. 
 - Graduate Student Research and Presentation Travel Award, Texas A&M University, 2020
 - Graduate student scholoarship, Zhejiang University, 2014 (Top 2%) 
+<br>
 
-# 📚 Grants
+# 📚 Grants<br>
 
 - “Active-weaving: Self-propelled Nanoparticle-Driven Formation and Graph-Theoretic Characterization of Complex Polymer Networks”, *NSF COMPASS Junior Scientist Research Grants*, PIs: S. Haque, R. Ma, S. Liu (Funded, $10K, 12/2024-12/2025)
 - "Optical polymer film for high-performance polarization applications", *Internal Research Grants*, PI: R. Ma (Funded, CNY300K,10/2026-10/2028) 
+<br>
 
-# 🧑‍🎨 Teaching & Mentoring Experience
+# 🧑‍🎨 Teaching & Mentoring Experience<br>
 
 - Chemical Engineering Mass Transfer Operations (Fall 2018, Spring 2019, Fall 2020)
 - Chemical Engineering Combined-Kinetics & Reactor Design (Fall 2021)
 - Mentored 3 undergraduates, and 2 Ph.D. students from the University of Michigan (2023-2025)
 - Mentored 4 undergraduates, 1 master, and 1 Ph.D. students from Texas A&M University (2019-2022)
-
+<br>
