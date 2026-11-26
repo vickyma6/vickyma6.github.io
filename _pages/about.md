@@ -39,14 +39,15 @@ My research focuses on interfacial science and the engineering of functional pol
 - Serve as a judge for undergraduate poster session competition, AlChE 2024
 
 <style>
-.paper-box-image img {
+.paper-box .paper-box-image img {
   display: block;
   width: 100%;
-  max-width: 350px;
+  max-width: 340px;
   height: auto;
   max-height: none;
-  aspect-ratio: 350 / 200;
-  object-fit: contain;
+  aspect-ratio: 340 / 195;
+  object-fit: contain !important;
+  object-position: center;
 }
 
 .paper-box-image .badge {
