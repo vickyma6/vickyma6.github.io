@@ -41,7 +41,6 @@ My research focuses on interfacial science and the engineering of functional pol
 # 📝 Publications 
 
 \* Corresponding author, \# Equally contribution
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Manuf. Process.</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,7 +95,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Colloid Interface Sci.</div><img src='images/GQDs-C.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Colloid Interface Sci.</div><img src='images/GQDs-CN.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Amphiphilicity-adaptable graphene quantum dots to stabilize pH-responsive Pickering emulsions at a very low concentration](https://www.sciencedirect.com/science/article/abs/pii/S0021979721007839), <em>J. Colloid Interface Sci. 601, 2021, 106-113.</em><br>
@@ -114,7 +113,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/ZCPs.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/ZCPs-N.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -124,7 +123,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/TFCMZ.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/TFCMZ-N.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -200,7 +199,9 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 <br>
 
+
 # 💬 Conference Presentations
+
 - **R. Ma**, J. Sun, S. Park, A.T. Liu, "Programmable cargo release by jet-printed microgel particles via an in situ ionic exchange". <em>GRS-Complex Active and Adaptive Material System</em>, Ventura, CA, Jan. 2025 (Poster) 
 - **R. Ma**, S. Park, A.T. Liu, "Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method". <em>AIChE Annual Meeting</em>, San Diego, CA, Oct. 2024 (Oral)
 - **R. Ma**, “Engineering particle systems for advanced applications”. <em>AIChE Annual Meeting</em>, San Diego, CA, Oct. 2024 (Poster)
@@ -214,21 +215,25 @@ My research focuses on interfacial science and the engineering of functional pol
 - **R. Ma**, Y. Ji, Q. An, C. Gao, “High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomer”, <em>The 9th Aseanian Membrane Society Conference</em>, Taipei, Jul. 2015 (Poster)
 
 # 🎖 Patents
+
 - Q. An, Y. Ji, **R. Ma**, C. Gao, “The fabrication method of polyamide reverse osmosis membrane with zwitterionic polyelectrolyte complex containing CMCNa”, Chinese patent, CN104028118B
 - A.T. Liu, **R. Ma**, J. Sun, S. Park, “Methods for generating alginate hydrogels and hydrogel systems”, U.S. patent, submitted
 - **R. Ma**, Q. Zhang, J. Liu, J. Wang, D. Wang, “Methods for PVA modification and films manufacturing process”, Chinese patent, submitted
 - **R. Ma**, Q. Zhang, J. Liu, J. Wang, Y. Wang, D. Wang, “A new type of PVA films for display applications”, Chinese patent, submitted
 
 # 🎖 Honors and Awards
+
 - UMPDA Postdoc Conference Award, University of Michigan, 2024. 
 - Graduate Student Research and Presentation Travel Award, Texas A&M University, 2020
 - Graduate student scholoarship, Zhejiang University, 2014 (Top 2%) 
 
 # 📚 Grants
+
 - “Active-weaving: Self-propelled Nanoparticle-Driven Formation and Graph-Theoretic Characterization of Complex Polymer Networks”, *NSF COMPASS Junior Scientist Research Grants*, PIs: S. Haque, R. Ma, S. Liu (Funded, $10K, 12/2024-12/2025)
 - "Optical polymer film for high-performance polarization applications", *Internal Research Grants*, PI: R. Ma (Funded, CNY300K,10/2026-10/2028) 
 
 # 🧑‍🎨 Teaching & Mentoring Experience
+
 - Chemical Engineering Mass Transfer Operations (Fall 2018, Spring 2019, Fall 2020)
 - Chemical Engineering Combined-Kinetics & Reactor Design (Fall 2021)
 - Mentored 3 undergraduates, and 2 Ph.D. students from the University of Michigan (2023-2025)
