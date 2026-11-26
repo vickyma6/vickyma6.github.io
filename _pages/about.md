@@ -40,20 +40,19 @@ My research focuses on interfacial science and the engineering of functional pol
 
 \* Corresponding author, \# Equally contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Manuf. Process.</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
 **R. Ma***#, Y. Yu*#
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
 **R. Ma***, Y. Yu
 </div>
-</div>  
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chem & Bio Engineering</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
@@ -65,8 +64,15 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Ionic liquid capsules as flame-retardant additives for emulsion paint systems](https://www.mdpi.com/2073-4360/17/5/626), <em>Polymers, 17, 2025, 626.</em><br>
 **R. Ma**, B. Wu, Q. Wang
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="position: absolute; top: -5px; left: 0px; z-index: 10; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%" style="max-height: 220px; width: 100%; max-width: 320px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,15 +90,27 @@ My research focuses on interfacial science and the engineering of functional pol
 
 [Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> ***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
 **R. Ma**, M. Zeng, D. Huang, Q. Wang
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Colloid Interface Sci.</div><img src='images/GQDs-C.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Amphiphilicity-adaptable graphene quantum dots to stabilize pH-responsive Pickering emulsions at a very low concentration](https://www.sciencedirect.com/science/article/abs/pii/S0021979721007839), <em>J. Colloid Interface Sci. 601, 2021, 106-113.</em><br>
 **R. Ma**, M. Zeng, D. Huang, J. Wang, Z. Cheng, Q. Wang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Therm. Anal. Calorim.</div><img src='images/GQDs-C.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 [Tunable flammability studies of graphene quantum dots-based poly- styrene nanocomposites using microscale combustion calorimetry]( https://doi.org/10.1007/s10973-022-11277-9), <em>J. Therm. Anal. Calorim. 147, 2022, 10383.</em><br>
-**R. Ma**, R. Shen, Y. Quan, Q. Wang,
+**R. Ma**, R. Shen, Y. Quan, Q. Wang
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/ZCPs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,6 +118,9 @@ My research focuses on interfacial science and the engineering of functional pol
 
 [Fabrication of antifouling reverse osmosis membranes by incorporating zwitterionic colloids nanoparticles for brackish water desalination](https://www.sciencedirect.com/science/article/abs/pii/S0011916416319877), <em>Desalination 416, 2017, 33.</em>
 **R. Ma**, Y. Ji, Y. Guo, Y. Mi, Q. An, C. Gao
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/TFCMZ.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,6 +128,9 @@ My research focuses on interfacial science and the engineering of functional pol
 
 [High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomers via interfacial polymerization](https://www.sciencedirect.com/science/article/abs/pii/S0011916415301259), <em>Desalination 381, 2016, 100.</em><br>
 **R. Ma**, Y. Ji, X. Weng, Q. An, C. Gao
+</div>
+</div>
+
 
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 15px;">
   • <a href="https://doi.org/10.3390/polym16111481">Recent Developments in Nanocomposite Membranes Based on Carbon Dots</a>, <em>Polymers, 16, 2024, 1481.</em>
