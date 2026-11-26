@@ -42,10 +42,10 @@ My research focuses on interfacial science and the engineering of functional pol
 .paper-box .paper-box-image img {
   display: block;
   width: 100%;
-  max-width: 340px;
+  max-width: 350px;
   height: auto;
   max-height: none;
-  aspect-ratio: 340 / 195;
+  aspect-ratio: 350 / 200;
   object-fit: contain !important;
   object-position: center;
 }
