@@ -47,12 +47,14 @@ My research focuses on interfacial science and the engineering of functional pol
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
 **R. Ma***#, Y. Yu*#
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
 **R. Ma***, Y. Yu
+</div>
 </div>
 
 
