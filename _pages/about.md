@@ -77,7 +77,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="position: absolute; top: -5px; left: 0px; z-index: 10; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%" style="max-height: 220px; width: 100%; max-width: 320px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="width: 380px; max-width: 100%;"><div class="badge" style="position: static; display: inline-block; margin: 0 0 4px -6px; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" style="display: block; width: 100%; height: auto; max-height: none;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -135,71 +135,59 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 
 
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 15px;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.3390/polym16111481">Recent Developments in Nanocomposite Membranes Based on Carbon Dots</a>, <em>Polymers, 16, 2024, 1481.</em>
   <div style="margin-top: 0em; text-indent: 0;">S. He, Y. Meng, J. Liu, D. Huang, Y. Mi*, <strong>R. Ma</strong>*</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
-  • <a href="https://doi.org/10.3390/polym16111481">Salt-responsive polyamide thin-film nanocomposite membrane based on zwitterionic polymeric nanoparticles for high-efficient dye desalination</a>, <em>J. Membr. Sci. 709, 2024, 123094.</em>
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
+  • <a href="https://doi.org/10.1016/j.memsci.2024.123094">Salt-responsive polyamide thin-film nanocomposite membrane based on zwitterionic polymeric nanoparticles for high-efficient dye desalination</a>, <em>J. Membr. Sci. 709, 2024, 123094.</em>
   <div style="margin-top: 0em; text-indent: 0;">Y. Mi, W. Xia, B. Gu, <strong>R. Ma</strong>, Y. Ji</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383586623007785">Simultaneous regulation of pore size and surface charge of nanofiltration membrane using carbon quantum dots for improved selective separation</a>, <em>Sep. Purif. Technol. 317, 2023, 123870.</em>
   <div style="margin-top: 0em; text-indent: 0;">Y. Mi, Y. Huang, S. He, <strong>R. Ma</strong>, Y. Meng, Z. Cao</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.1021/acssuschemeng.2c01720">Sustainable and efficient manufacturing of metal-organic framework-based polymer nanocomposites by reactive extrusion</a>, <em>ACS Sustainable Chem. Eng.10, 2022, 7216.</em>
   <div style="margin-top: 0em; text-indent: 0;">Y. Quan, R. Shen, <strong>R. Ma</strong>, Z. Zhang, Q. Wang</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058422002929">Thermal stability and flammability of cotton fabric with TiO2 coatings based on biomineralization</a>, <em>Mater. Chem. Phys. 282, 2022, 125986.</em>
   <div style="margin-top: 0em; text-indent: 0;">15.	R. Shen, T. Fan, Y. Quan, <strong>R. Ma</strong>, Z. Zhang, Y. Li, Q. Wang</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.3390/polym14061213">Thermal stability and flammability studies of MXene-organic hybrid polystyrene nanocomposites</a>, <em>Polymers 2022, 14, 1213.</em>
   <div style="margin-top: 0em; text-indent: 0;">Z. Zhang, H. Cao, Y. Quan, <strong>R. Ma</strong>, E. Pentzer, M. Green, Q. Wang</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.1021/acs.iecr.2c00715">Metal-organic framework as an efficient synergist for intumescent flame retardants against highly flammable polypropylene</a>, <em>Ind. Eng. Chem. Res. 61, 2022, 7292-7302.</em> <strong><em>Most Popular IECR Article in 2022</em></strong>
   <div style="margin-top: 0em; text-indent: 0;">R. Shen, Y. Quan, Z. Zhang, <strong>R. Ma</strong>, Q. Wang</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.3390/polym13234113">Flammability and thermal kinetic analysis of UiO-66-based PMMA polymer composites</a>, <em>Polymers 13, 2022, 4113.</em>
   <div style="margin-top: 0em; text-indent: 0;">R. Shen, T. Yan, <strong>R. Ma</strong>, E. Joseph, Y. Quan, H. Zhou, Q. Wang</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.1039/d1ta02117f">Templating synthesis of natural cotton-based hierarchically structured carbon hollow microfibers for high-performance solar vapor generation</a>, <em>J. Mater. Chem. A 27, 2021, 15346-15354.</em>
   <div style="margin-top: 0em; text-indent: 0;">S. Lei, D. Huang, S. Liu, M. Chen, <strong>Rong Ma</strong>, M. Zeng, D. Li, W. Ma, L. Wang, Z. Cheng</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.1016/j.jlp.2020.104213">Microwave-assisted preparation of two-dimensional amphiphilic nanoplate herding surfactants for offshore oil spill treatment</a>, <em>J. Loss. Prev. Process Ind. 66, 2020, 104213.</em>
   <div style="margin-top: 0em; text-indent: 0;">D. Huang, H. Xu, B. Jacob, <strong>R. Ma</strong>, S. Yuan, L. Zhang, M. Mannan, Z. Cheng</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.1016/j.jlp.2019.103948">Biocompatible Herder for rapid oil spill treatment over a wide temperature range</a>, <em>J. Loss. Prev. Process Ind. 62, 2019, 103948.</em>
   <div style="margin-top: 0em; text-indent: 0;">D. Huang, R. Sebastian, L. Zhang, H. Xu, S. Lei, M. Chen, A. Shinde, <strong>R. Ma</strong>, M. Mannan, Z. Cheng</div>
 </div>
-<br>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433217330817">Strong efficiency improvement in dye-sensitized solar cells by novel multi- dimensional TiO2 photoelectrode</a>, <em> Appl. Surf. Sci. 434, 2018, 11-15.</em>
   <div style="margin-top: 0em; text-indent: 0;">F. Zhao, <strong>R. Ma</strong>, Y. Jiang</div>
 </div>
-<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
+<div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376738816301272">Superhydrophilc and antibacterial zwitterionic polyamide nanofiltration membranes for antibiotics separation</a>, <em> J. Membr. Sci. 510, 2016, 122-130.</em>
   <div style="margin-top: 0em; text-indent: 0;">X. Weng, Y. Ji, <strong>R. Ma</strong>, F. Zhao, Q. An, C. Gao</div>
 </div>
 <br>
-
 
 # 💬 Conference Presentations
 
