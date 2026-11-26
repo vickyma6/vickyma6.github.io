@@ -76,7 +76,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-<div class='paper-box'><div class="paper-box" style="padding-top: 0.3em;"><div style="width: 350px; max-width: 100%;"><div class="badge" style="position: static; display: inline-block; margin: 0 0 4px -6px; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" style="display: block; width: 100%; height: 200px; max-height: none; object-fit: fill;"></div></div>
+<div class='paper-box'><div class="paper-box" style="padding-top: 0.1em;"><div style="width: 350px; max-width: 100%;"><div class="badge" style="position: static; display: inline-block; margin: 0 0 4px -6px; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" style="display: block; width: 100%; height: 200px; max-height: none; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
