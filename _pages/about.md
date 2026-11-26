@@ -76,8 +76,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div style="width: 380px; max-width: 100%;"><div class="badge" style="position: static; display: inline-block; margin: 0 0 4px -6px; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" style="display: block; width: 100%; height: auto; max-height: none;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="width: 380px; max-width: 100%;"><div class="badge" style="position: static; display: inline-block; margin: 0 0 4px -6px; white-space: nowrap;">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" style="display: block; width: 100%; height: 230px; max-height: none; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -85,7 +84,6 @@ My research focuses on interfacial science and the engineering of functional pol
 **R. Ma**, R. Shen, Y. Quan, Q. Wang
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Mater. Interface</div><img src='images/ZGQDs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
