@@ -197,10 +197,11 @@ My research focuses on interfacial science and the engineering of functional pol
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376738816301272">Superhydrophilc and antibacterial zwitterionic polyamide nanofiltration membranes for antibiotics separation</a>, <em> J. Membr. Sci. 510, 2016, 122-130.</em>
   <div style="margin-top: 1em; text-indent: 0;">X. Weng, Y. Ji, <strong>R. Ma</strong>, F. Zhao, Q. An, C. Gao</div>
 </div>
+</div>
 <br>
 
 
-# 💬 Conference Presentations<br>
+# 💬 Conference Presentations
 
 - **R. Ma**, J. Sun, S. Park, A.T. Liu, "Programmable cargo release by jet-printed microgel particles via an in situ ionic exchange". <em>GRS-Complex Active and Adaptive Material System</em>, Ventura, CA, Jan. 2025 (Poster) 
 - **R. Ma**, S. Park, A.T. Liu, "Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method". <em>AIChE Annual Meeting</em>, San Diego, CA, Oct. 2024 (Oral)
