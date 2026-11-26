@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+{% comment %}
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% endcomment %}
+
 
 <span class='anchor' id='about-me'></span>
 
@@ -40,7 +42,7 @@ My research focuses on interfacial science and the engineering of functional pol
 
 \* Corresponding author, \# Equally contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Manuf. Process.</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Manuf. Process.</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
@@ -102,7 +104,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Therm. Anal. Calorim.</div><img src='images/GQDs-C.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Therm. Anal. Calorim.</div><img src='images/PS-CGs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
