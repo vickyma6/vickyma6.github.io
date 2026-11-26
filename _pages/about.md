@@ -194,11 +194,9 @@ My research focuses on interfacial science and the engineering of functional pol
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433217330817">Strong efficiency improvement in dye-sensitized solar cells by novel multi- dimensional TiO2 photoelectrode</a>, <em> Appl. Surf. Sci. 434, 2018, 11-15.</em>
   <div style="margin-top: 0em; text-indent: 0;">F. Zhao, <strong>R. Ma</strong>, Y. Jiang</div>
 </div>
-<br>
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 2em;">
   • <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376738816301272">Superhydrophilc and antibacterial zwitterionic polyamide nanofiltration membranes for antibiotics separation</a>, <em> J. Membr. Sci. 510, 2016, 122-130.</em>
   <div style="margin-top: 0em; text-indent: 0;">X. Weng, Y. Ji, <strong>R. Ma</strong>, F. Zhao, Q. An, C. Gao</div>
-</div>
 </div>
 <br>
 
