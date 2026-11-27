@@ -102,7 +102,7 @@ My research focuses on how material structure and interfaces govern transport an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
+[Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em> <br>
 **R. Ma**, R. Shen, Y. Quan, Q. Wang
 </div>
 </div>
@@ -110,7 +110,7 @@ My research focuses on how material structure and interfaces govern transport an
 <div class='paper-box-text' markdown="1">
 
 
-[Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> 
+[Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> <br>
 **R. Ma**, M. Zeng, D. Huang, Q. Wang<br>
 <strong><em style="color: #0056A6;">reported by TAMU Engineering, Science Daily News, AAAS &amp; EurekAlert, STLE</em></strong>
 </div>
