@@ -77,16 +77,14 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chem & Bio Engineering</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method](https://pubs.acs.org/doi/full/10.1021/cbe.5c00017), <em>Chem & Bio Engineering, 2, 2025, 312-321.</em>
-***Editors’ choice, Featured as the Front Cover***<br>
 **R. Ma**#, J. Sun#, S. Park, F. Nikolla, A.T. Liu
+***Editors’ choice, Featured as the Front Cover***<br>
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,9 +94,8 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-<div class='paper-box'><div class="paper-box" style="padding-top: 0.1em;"><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" style="display: block; width: 100%; height: 200px; max-height: none; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
 **R. Ma**, R. Shen, Y. Quan, Q. Wang
@@ -108,11 +105,11 @@ My research focuses on interfacial science and the engineering of functional pol
 <div class='paper-box-text' markdown="1">
 
 
-[Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> ***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
+[Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> 
 **R. Ma**, M. Zeng, D. Huang, Q. Wang
+***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Colloid Interface Sci.</div><img src='images/GQDs-CN.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,7 +121,6 @@ My research focuses on interfacial science and the engineering of functional pol
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Therm. Anal. Calorim.</div><img src='images/PS-CGs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Tunable flammability studies of graphene quantum dots-based poly- styrene nanocomposites using microscale combustion calorimetry]( https://doi.org/10.1007/s10973-022-11277-9), <em>J. Therm. Anal. Calorim. 147, 2022, 10383.</em><br>
 **R. Ma**, R. Shen, Y. Quan, Q. Wang
@@ -141,16 +137,13 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Desalination</div><img src='images/TFCMZ-N.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [High-flux and fouling-resistant reverse osmosis membrane prepared with incorporating zwitterionic amine monomers via interfacial polymerization](https://www.sciencedirect.com/science/article/abs/pii/S0011916415301259), <em>Desalination 381, 2016, 100.</em><br>
 **R. Ma**, Y. Ji, X. Weng, Q. An, C. Gao
 </div>
 </div>
-
 
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
   • <a href="https://doi.org/10.3390/polym16111481">Recent Developments in Nanocomposite Membranes Based on Carbon Dots</a>, <em>Polymers, 16, 2024, 1481.</em>
@@ -177,7 +170,7 @@ My research focuses on interfacial science and the engineering of functional pol
   <div style="margin-top: 0em; text-indent: 0;">Z. Zhang, H. Cao, Y. Quan, <strong>R. Ma</strong>, E. Pentzer, M. Green, Q. Wang</div>
 </div>
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
-  • <a href="https://doi.org/10.1021/acs.iecr.2c00715">Metal-organic framework as an efficient synergist for intumescent flame retardants against highly flammable polypropylene</a>, <em>Ind. Eng. Chem. Res. 61, 2022, 7292-7302.</em> <strong><em>Most Popular IECR Article in 2022</em></strong>
+  • <a href="https://doi.org/10.1021/acs.iecr.2c00715">Metal-organic framework as an efficient synergist for intumescent flame retardants against highly flammable polypropylene</a>, <em>Ind. Eng. Chem. Res. 61, 2022, 7292-7302.</em>   <strong><em>Most Popular IECR Article in 2022</em></strong>
   <div style="margin-top: 0em; text-indent: 0;">R. Shen, Y. Quan, Z. Zhang, <strong>R. Ma</strong>, Q. Wang</div>
 </div>
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
