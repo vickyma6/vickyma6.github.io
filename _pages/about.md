@@ -53,8 +53,13 @@ My research focuses on how material structure and interfaces govern transport an
 .paper-box-image .badge {
   position: static;
   display: inline-block;
-  margin: 0 0 3px -4px;
+  margin: 0 0 4px -6px;
   white-space: nowrap;
+}
+  /* 缩小上下两篇带图论文之间的间距 */
+.paper-box {
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 </style>
 
@@ -82,11 +87,11 @@ My research focuses on how material structure and interfaces govern transport an
   
 [Programmable cargo release from jet-printed microgel particles via an in situ ionic exchange method](https://pubs.acs.org/doi/full/10.1021/cbe.5c00017), <em>Chem & Bio Engineering, 2, 2025, 312-321.</em><br>
 **R. Ma**#, J. Sun#, S. Park, F. Nikolla, A.T. Liu<br>
-***Editors’ choice, Featured as the Front Cover***<br>
+<strong><em style="color: #0056A6;">Editors’ choice, Featured as the Front Cover</em></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/ILs capsules.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Ionic liquid capsules as flame-retardant additives for emulsion paint systems](https://www.mdpi.com/2073-4360/17/5/626), <em>Polymers, 17, 2025, 626.</em><br>
@@ -94,7 +99,7 @@ My research focuses on how material structure and interfaces govern transport an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/ILs capsules.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/MMT-GQDs.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
@@ -107,7 +112,7 @@ My research focuses on how material structure and interfaces govern transport an
 
 [Zwitterionic graphene quantum dots to stabilize Pickering emulsions and for controlled-release application](https://doi.org/10.1021/acsami.1c23226), <em>ACS Appl. Mater. Interface 14, 2022, 7486-7492.</em> 
 **R. Ma**, M. Zeng, D. Huang, Q. Wang<br>
-***reported by TAMU Engineering, Science Daily News, AAAS & EurekAlert, STLE***<br>
+<strong><em style="color: #0056A6;">reported by TAMU Engineering, Science Daily News, AAAS &amp; EurekAlert, STLE</em></strong>
 </div>
 </div>
 
@@ -170,7 +175,7 @@ My research focuses on how material structure and interfaces govern transport an
   <div style="margin-top: 0em; text-indent: 0;">Z. Zhang, H. Cao, Y. Quan, <strong>R. Ma</strong>, E. Pentzer, M. Green, Q. Wang</div>
 </div>
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
-  • <a href="https://doi.org/10.1021/acs.iecr.2c00715">Metal-organic framework as an efficient synergist for intumescent flame retardants against highly flammable polypropylene</a>, <em>Ind. Eng. Chem. Res. 61, 2022, 7292-7302.</em>   <strong><em>Most Popular IECR Article in 2022</em></strong>
+  • <a href="https://doi.org/10.1021/acs.iecr.2c00715">Metal-organic framework as an efficient synergist for intumescent flame retardants against highly flammable polypropylene</a>, <em>Ind. Eng. Chem. Res. 61, 2022, 7292-7302.</em>   <strong><em style="color: #0056A6;">Most Popular IECR Article in 2022</em></strong>
   <div style="margin-top: 0em; text-indent: 0;">R. Shen, Y. Quan, Z. Zhang, <strong>R. Ma</strong>, Q. Wang</div>
 </div>
 <div style="padding-left: 1.2em; text-indent: -1.2em; margin-bottom: 1em;">
