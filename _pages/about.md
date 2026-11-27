@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Senior Scientist at the USTC-Advanced Membrane Materials Institute, where I lead an R&D project on polymer films for display and optical applications. I develop the research plan, coordinate the team’s experiments, and set and track project milestones. Previously, I was a postdoctoral researcher at the University of Michigan, Ann Arbor, where I worked as part of the NSF COMPASS research center. I earned my Ph.D. in Chemical Engineering from Texas A&M University and my master’s degree in Polymer Science from Zhejiang University.
+I am a Senior Scientist at the USTC-Advanced Membrane Materials Institute, where I lead an R&D project on polymer optical films. I oversee formulation development, process optimization, and the transfer of lab-scale developments to production. Previously, I was a postdoctoral researcher at the University of Michigan, Ann Arbor, where I worked with the NSF COMPASS Center. I earned my Ph.D. in Chemical Engineering from Texas A&M University and my master’s degree in Polymer Science from Zhejiang University.
 
-My research focuses on interfacial science and the engineering of functional polymer materials for membrane separations, controlled release, and fire safety. My interests also include AI for Materials Engineering, particularly the integration of experimental design and machine learning to predict material performance and guide process development. I have authored or co-authored 23 papers, including 11 as first or corresponding author. According to Google Scholar, my publications have received over 920 citations with an h-index of 17 (as of 11/2026). I am also committed to serving the broader research community through peer review and editorial contributions.
+My research focuses on how material structure and interfaces govern transport and performance in polymer and colloidal systems. My work spans membrane separations, controlled release, and fire safety. I am also exploring applications of AI in materials science and chemical engineering. I have authored or co-authored 23 papers, including 11 as first or corresponding author. According to Google Scholar, my publications have received over 920 citations with an h-index of 17 (as of 11/2026). I am a co-inventor on a granted patent and several patent applications. I also contribute to the research community through peer review and editorial service.
 
 # 💻 Experiences
 - *2025 - Current*, Senior Scientist, USTC-Advanced Membrane Materials Institute, Hefei, Anhui.
@@ -53,7 +53,7 @@ My research focuses on interfacial science and the engineering of functional pol
 .paper-box-image .badge {
   position: static;
   display: inline-block;
-  margin: 0 0 4px -6px;
+  margin: 0 0 3px -4px;
   white-space: nowrap;
 }
 </style>
@@ -61,7 +61,7 @@ My research focuses on interfacial science and the engineering of functional pol
 # 📝 Publications 
 
 \* Corresponding author, \# Equally contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Manuf. Process.</div><img src='images/500x300.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Manuf. Process.</div><img src='images/DoE+ML.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrated Design of Experiments and Machine Learning for Performance Prediction and Manufacturing Condition Analysis of Complex Functional Polymer Films](https://www.tandfonline.com/doi/full/10.1080/10426914.2026.2751051), <em>Mater. Manuf. Process. 2026, 1-9.</em><br>
@@ -69,7 +69,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Polymers</div><img src='images/PVA review.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Next-generation PVA-dye complex film with advanced properties for optical applications](https://www.mdpi.com/2073-4360/18/7/876), <em>Polymers, 18, 2026, 876.</em><br>
@@ -94,7 +94,7 @@ My research focuses on interfacial science and the engineering of functional pol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/IEX.png' alt="Graph Abstract" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ind. Eng. Chem. Res.</div><img src='images/ILs capsules.png' alt="Graph Abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Preparation of graphene quantum dots decorated montmorillonite to reinforce fire retardancy of polystyrene](https://doi.org/10.1021/acs.iecr.3c02004), <em>Ind. Eng. Chem. Res. 62, 2023, 13510.</em><br>
