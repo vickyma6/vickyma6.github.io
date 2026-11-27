@@ -6,7 +6,7 @@ main:
   - title: "Experiences & Educations"
     url: "/#-Experiences"
 
- - title: "Services"
+  - title: "Services"
     url: "/#-Professional Serveices"
 
   - title: "Publications"
@@ -21,7 +21,4 @@ main:
   - title: "Others"
     url: "/#-Grants"
 
-{% comments %}
-  - title: "Internships"
-    url: "/#-internships"
-{% endcomments %}
+
