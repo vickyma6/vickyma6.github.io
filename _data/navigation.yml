@@ -4,21 +4,21 @@ main:
     url: "/#about-me"
 
   - title: "Experiences & Educations"
-    url: "/#-Experiences"
+    url: "/#-experiences"
 
   - title: "Services"
-    url: "/#-Professional Serveices"
+    url: "/#-professional-serveices"
 
   - title: "Publications"
-    url: "/#-Publications"
+    url: "/#-publications"
 
   - title: "Conferences & Patents"
-    url: "/#-Conference Presentations"
+    url: "/#-conference-presentations"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Others"
-    url: "/#-Grants"
+    url: "/#-grants"
 
 
